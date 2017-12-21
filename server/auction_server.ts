@@ -18,7 +18,7 @@ const hometasks:Hometask[] = [
 app.get('/',(req,res) => {
     res.send("hello express");
 });
-app.get('/hometasks',(req,res) => {
+app.get('/api/hometasks',(req,res) => {
     res.json( hometasks );
     console.log(JSON.stringify(hometasks))
 });
