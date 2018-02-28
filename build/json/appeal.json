@@ -1,0 +1,44 @@
+{
+  "appeals":
+  [
+    {
+      "id": 1,
+      "appealStatus":"completed",
+      "visitors":{
+        "id":1200,
+        "name":"石大牛",
+        "sex": "男",
+        "phone":13200000000,
+        "registered": "2012-02-02"
+      },
+      "location": {
+        "street":"白马社区",
+        "city":"宁乡",
+        "state":"白马桥乡"
+      },
+      "appealTitle":"白马桥下水道常年被收废品的拿去卖了",
+      "appealDesc": "这里是描述白马桥下水道常年被收废品的拿去卖了",
+      "appealTime": "2012-02-12"
+    },
+    {
+      "id": 2,
+      "appealStatus":"untreated",
+      "visitors":{
+        "id":1200,
+        "name":"磊宝石",
+        "sex": "男",
+        "phone":13200000000,
+        "registered": "2012-02-02"
+      },
+      "location": {
+        "street":"玉潭镇",
+        "city":"宁乡",
+        "state":"新城社区02号"
+      },
+      "appealTitle":"新城社区怎么没人搞卫生",
+      "appealDesc": "这里是描述新城社区怎么没人搞卫生",
+      "appealTime": "2012-02-12"
+    }
+  ]
+}
+

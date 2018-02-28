@@ -29,3 +29,9 @@ npm install @types/express --save
 
 npm install -g nodemon 监控源代码，当代码改变时自动重启node服务器
 nodemon build/auction_server.js
+
+2018/1/29
+安装websocket
+npm install ws --save 
+安装类型定义文件
+npm install @types/ws --save-dev
